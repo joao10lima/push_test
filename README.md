@@ -1,2 +1,2 @@
-Teste bem vindo
+Bem vindo
 
