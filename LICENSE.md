@@ -1,6 +1,2 @@
 LICENSE TESTE
 
-FF
-FF
-
-FFF
